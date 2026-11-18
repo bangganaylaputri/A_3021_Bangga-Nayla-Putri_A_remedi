@@ -1,0 +1,14 @@
+E:\KULIAH UNEJ\SEMESTER 3\PBO\praktikum\SistemMBG\SistemMBG\bin\Debug\net10.0\SistemMBG.exe
+E:\KULIAH UNEJ\SEMESTER 3\PBO\praktikum\SistemMBG\SistemMBG\bin\Debug\net10.0\SistemMBG.deps.json
+E:\KULIAH UNEJ\SEMESTER 3\PBO\praktikum\SistemMBG\SistemMBG\bin\Debug\net10.0\SistemMBG.runtimeconfig.json
+E:\KULIAH UNEJ\SEMESTER 3\PBO\praktikum\SistemMBG\SistemMBG\bin\Debug\net10.0\SistemMBG.dll
+E:\KULIAH UNEJ\SEMESTER 3\PBO\praktikum\SistemMBG\SistemMBG\bin\Debug\net10.0\SistemMBG.pdb
+E:\KULIAH UNEJ\SEMESTER 3\PBO\praktikum\SistemMBG\SistemMBG\obj\Debug\net10.0\SistemMBG.GeneratedMSBuildEditorConfig.editorconfig
+E:\KULIAH UNEJ\SEMESTER 3\PBO\praktikum\SistemMBG\SistemMBG\obj\Debug\net10.0\SistemMBG.AssemblyInfoInputs.cache
+E:\KULIAH UNEJ\SEMESTER 3\PBO\praktikum\SistemMBG\SistemMBG\obj\Debug\net10.0\SistemMBG.AssemblyInfo.cs
+E:\KULIAH UNEJ\SEMESTER 3\PBO\praktikum\SistemMBG\SistemMBG\obj\Debug\net10.0\SistemMBG.csproj.CoreCompileInputs.cache
+E:\KULIAH UNEJ\SEMESTER 3\PBO\praktikum\SistemMBG\SistemMBG\obj\Debug\net10.0\SistemMBG.dll
+E:\KULIAH UNEJ\SEMESTER 3\PBO\praktikum\SistemMBG\SistemMBG\obj\Debug\net10.0\refint\SistemMBG.dll
+E:\KULIAH UNEJ\SEMESTER 3\PBO\praktikum\SistemMBG\SistemMBG\obj\Debug\net10.0\SistemMBG.pdb
+E:\KULIAH UNEJ\SEMESTER 3\PBO\praktikum\SistemMBG\SistemMBG\obj\Debug\net10.0\SistemMBG.genruntimeconfig.cache
+E:\KULIAH UNEJ\SEMESTER 3\PBO\praktikum\SistemMBG\SistemMBG\obj\Debug\net10.0\ref\SistemMBG.dll
